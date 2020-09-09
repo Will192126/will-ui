@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WiBanner" >
+        <attr name="auto_play" format="boolean" />
+        <attr name="loop" format="boolean" />
+        <attr name="interval_time" format="integer|reference" />
+    </declare-styleable>
+</resources>
